@@ -27,14 +27,14 @@ The code requires Python 3 and the following packages:
 pip install -r requirements.txt
 ```
 
-## Running the Code
+<!-- ## Running the Code -->
 
-Clone the repository and enter the project directory:
+<!-- Clone the repository and enter the project directory:
 
 ``` bash
 git clone https://github.com/waiyeonglee/dsa5205_p1.git
 cd dsa5205_p1
-```
+``` -->
 
 Each task can be run independently.
 
