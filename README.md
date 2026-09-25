@@ -14,8 +14,8 @@ dsa5205_p1/
 ├── utils.py       # Shared functions
 ├── data/          # Input data for Task 3
 ├── plots/         # Generated plots
-└── predictions/   # Generated Task 3 predictions
-├── requirements.txt
+├── predictions/   # Generated Task 3 predictions
+└── requirements.txt
 
 ```
 
