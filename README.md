@@ -55,6 +55,8 @@ the figures to `plots/`.
 
 ### Task 3 --- Sample Datasets
 
+Note: the datasets are not uploaded into this GitHub due to file size limit.
+
 Ensure the supplied datasets are placed in the `data/` directory:
 
 ``` text
