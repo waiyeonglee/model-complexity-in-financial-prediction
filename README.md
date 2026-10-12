@@ -3,7 +3,7 @@
 ## Repository Structure
 
 ``` text
-dsa5205_p1/
+model-complexity-in-financial-prediction/
 ├── task1.py       # Task 1: Ridge regression
 ├── task2.py       # Task 2: Lasso regression
 ├── task3.py       # Task 3: Predictions on datasets A, B and C
