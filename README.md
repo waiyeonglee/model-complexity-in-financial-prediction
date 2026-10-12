@@ -1,7 +1,4 @@
-# DSA5205 Project 1
-
-Code for **DSA5205 Project 1: Reproduce Key Results in a ML-in-Finance
-Study**.
+# Model Complexity and Generalisation in Financial Machine Learning
 
 ## Repository Structure
 
